@@ -1,0 +1,89 @@
+body {
+
+background-color: rgb(128, 128, 128);
+
+}
+
+.wrapper {
+
+height: 100%;
+overflow: hidden;
+padding: 50px;
+min-height: 100%;
+}
+.block {
+
+}
+.block__row {
+border: 20px solid purple;
+margin: 0px 0px 20px 0px;
+display: flex;
+
+
+}
+
+.block__colum{
+    
+    flex-basis: 30%;
+    border: 20px solid palevioletred;
+}
+
+.block__item {
+
+    background-color: blueviolet;
+padding: 50px;
+font-size: 50px;
+color: aliceblue;
+font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
